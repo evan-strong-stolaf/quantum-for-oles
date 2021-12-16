@@ -3,3 +3,4 @@ An introduction to Quantum Computing for curious St. Olaf students. All terms an
 
 Cool resources
 - https://github.com/mxgmn/WaveFunctionCollapse
+- https://qiskit.org/textbook-beta/course/introduction-course
